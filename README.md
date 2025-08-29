@@ -29,7 +29,7 @@ A comprehensive hospital management dashboard system providing real-time analyti
 ## 📊 Dashboard Previews
 
 ### Overview Dashboard
-![Overview Dashboard](2.png)
+![Overview Dashboard](3.png)
 *Comprehensive view of hospital operations with key performance indicators*
 
 ### Doctor Performance Dashboard
@@ -37,7 +37,7 @@ A comprehensive hospital management dashboard system providing real-time analyti
 *Doctor analytics including appointments, ratings, and commission tracking*
 
 ### Financial Analytics Dashboard
-![Finance Dashboard](6.png)
+![Finance Dashboard](7.png)
 *Financial insights with revenue analysis and expense tracking*
 
 ## 🏥 Use Cases
